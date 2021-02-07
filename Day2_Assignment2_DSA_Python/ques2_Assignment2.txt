@@ -1,0 +1,3 @@
+ANS 2: b.X will be a better choice for all inputs except possibly small inputs 
+
+Explanation: We compare 2 algorithms on the basis of the time taken by an algorithm,the lesser time taken by one algo is chosen ,we do not consider the input size to be small.
